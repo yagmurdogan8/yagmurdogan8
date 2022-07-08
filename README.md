@@ -12,6 +12,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurdogan8&theme=tokyonight" alt="mystreak"/>
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=yagmurdogan8&theme=juicyfresh&no-bg=true" />
+<br>
+<img src="https://profile-counter.glitch.me/{yagmurdogan8}/count.svg" alt="yagmurdogan8 :: Visitor's Count" />
+<br>
+![Snake animation](https://github.com/yagmurdogan8/yagmurdogan8/blob/output/github-contribution-snake.svg)
 
 Languages & Tools:
 
