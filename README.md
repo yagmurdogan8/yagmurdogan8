@@ -5,7 +5,7 @@
 - 📫 How to reach me: taztep@gmail.com
 
 <br>
-[![Yağmur's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagmurdogan8&theme=gruvbox_light&show_icons=true)](https://github.com/yagmurdogan8/github-readme-stats) </br>
+![Snake animation](https://github.com/yagmurdogan8/github-readme/blob/output/github-contribution-snake.svg)
 
 Languages & Tools:
 
