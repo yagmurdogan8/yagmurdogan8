@@ -15,15 +15,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=yagmurdogan8&theme=juicyfresh&no-bg=true" />
 <br>
 <img src="https://profile-counter.glitch.me/{yagmurdogan8}/count.svg" alt="yagmurdogan8 :: Visitor's Count" />
-<br>
-[![Snake animation](https://github.com/yagmurdogan8/yagmurdogan8/blob/yagmurdogan8-patch-1/github-contribution-snake.svg)
-<br>
+<!--[![Snake animation](https://github.com/yagmurdogan8/yagmurdogan8/blob/yagmurdogan8-patch-1/github-contribution-snake.svg)-->
 
-Languages & Tools:
-
-<br>
-
-<br>
+<!--Languages & Tools:-->
 
 Reach me via: 
 
