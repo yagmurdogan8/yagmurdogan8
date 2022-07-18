@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yağmur, a newly graduated Computer Engineer!
 
 - 🔭 I’m currently working with Flutter-Dart and Java
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning to use HTTP requests
 - 📫 How to reach me: taztep@gmail.com
 
 <br>
