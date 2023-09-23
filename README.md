@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yağmur, a newly graduated Computer Engineer!
+### Hi there 👋 I'm Yağmur, a Data Science Master's Student at Leiden University!
 
 - 🔭 I’m currently working with Python
 - 🌱 I’m currently learning Data Science with Python
