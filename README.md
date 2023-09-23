@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yağmur, a newly graduated Computer Engineer!
 
-- 🔭 I’m currently working with Flutter-Dart and Java
-- 🌱 I’m currently learning to use HTTP requests
+- 🔭 I’m currently working with Python
+- 🌱 I’m currently learning Data Science with Python
 - 📫 How to reach me: yagmurdogan8@outlook.com
 
 <div align = "center">
