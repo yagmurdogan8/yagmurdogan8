@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Flutter-Dart and Java
 - 🌱 I’m currently learning to use HTTP requests
-- 📫 How to reach me: taztep@gmail.com
+- 📫 How to reach me: yagmurdogan8@outlook.com
 
 <div align = "center">
 <br>
