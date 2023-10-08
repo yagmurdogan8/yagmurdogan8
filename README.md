@@ -40,7 +40,7 @@
 
 
 
-<!--[![Snake animation](https://github.com/yagmurdogan8/yagmurdogan8/blob/yagmurdogan8-patch-1/github-contribution-snake.svg)-->
+[![Snake animation](https://github.com/yagmurdogan8/yagmurdogan8/blob/yagmurdogan8-patch-1/github-contribution-snake.svg)
 <!--Languages & Tools:-->
 
 Reach me via: 
