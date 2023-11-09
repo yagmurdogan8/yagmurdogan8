@@ -11,8 +11,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurdogan8&theme=tokyonight" alt="mystreak"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagmurdogan8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=yagmurdogan8&theme=juicyfresh&no-bg=true" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=yagmurdogan8&theme=juicyfresh&no-bg=false" />
   <br><br>
   <img src="https://profile-counter.glitch.me/{yagmurdogan8}/count.svg" alt="yagmurdogan8 :: Visitor's Count" />
 </div>
