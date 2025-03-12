@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yağmur, a Data Science Master's Student at Leiden University!
 
 - 🔭 I’m currently working with Python
-- 🌱 I’m currently working on my low-light live stream enhancement while learning Data Science with Python
+- 🌱 I’m currently working on my low-light live stream enhancement thesis while learning Data Science with Python
 - 📫 How to reach me: yagmurdogan8@outlook.com
 
 <div align = "center">
