@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Yağmur, a Data Science Master's Student at Leiden University!
+### Hi there 👋 I'm Yağmur, a Data Science Master's Graduate from Leiden University!
 
 - 🔭 I’m currently working with Python
-- 🌱 I’m currently working on my Low-Light Video Enhancement on Live Streams Thesis while learning Data Science with Python
+- 🌱 I’m currently looking for a full-time job while working on projects that involve AI, LLMs, RAG Concepts and ML
 - 📫 How to reach me: yagmurdogan8@outlook.com
 
 <div align = "center">
