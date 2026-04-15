@@ -1,9 +1,21 @@
-### Hi there 👋 I'm Yağmur, a Data Science Master's Graduate from Leiden University!
+## Hi, I'm Yağmur 👋
 
-- 🔭 I’m currently working with Python
-- 🌱 I’m currently looking for a full-time job while working on projects that involve AI, LLMs, RAG Concepts and ML
-- 📫 How to reach me: yagmurdogan8@outlook.com
+I'm a Data Scientist and AI Engineer based in the Netherlands. I build
+efficient deep learning systems — my recent work focuses on real-time
+computer vision with PyTorch, model compression, and inference optimization.
 
+### What I'm working on
+- 🔬 MSc thesis: Real-time low-light image & video enhancement (90+ FPS,
+  3× speedup via pruning/quantization)
+- 🧠 NLP and RAG pipeline experiments
+- 📊 End-to-end ML projects in computer vision, NLP, and audio processing
+
+### Tech I use daily
+Python · PyTorch · OpenCV · Hugging Face · CUDA · Git · Linux
+
+### Find me
+- [LinkedIn](https://linkedin.com/in/yagmur-dogan)
+- [Email](mailto:yagmurdogan8@outlook.com)
 <div align = "center">
 <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurdogan8&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
