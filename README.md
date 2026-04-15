@@ -14,8 +14,8 @@ computer vision with PyTorch, model compression, and inference optimization.
 Python · PyTorch · OpenCV · Hugging Face · CUDA · Git · Linux
 
 ### Find me
-- [LinkedIn](https://linkedin.com/in/yagmur-dogan)
-- [Email](mailto:yagmurdogan8@outlook.com)
+- [on LinkedIn](https://linkedin.com/in/yagmur-dogan)
+- [Send me an Email](mailto:yagmurdogan8@outlook.com)
 <div align = "center">
 <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurdogan8&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
